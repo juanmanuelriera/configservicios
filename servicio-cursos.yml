@@ -16,6 +16,6 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka
   instance:
-    instance-id: instancia_cursos_3
+    instance-id: instancia_cursos_1
 server:
-  port: 8082
+  port: 8080
